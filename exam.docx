@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Latest Trends Blog</title>
+    <link rel="stylesheet" href="BLOG.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1 class="logo">Latest Trends</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="https://www.bing.com/ck/a?!&&p=e0d47c691638777f27d8896aee20366b64b0f2e1767477991b6616f079844da9JmltdHM9MTczNjk4NTYwMA&ptn=3&ver=2&hsh=4&fclid=22fd2765-e7f7-61c6-1ee9-34aae6456050&psq=FASHION&u=a1aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRmFzaGlvbg&ntb=1">Fashion</a></li>
+                    <li><a href="https://www.bing.com/ck/a?!&&p=bedc98b0788bacbbdf855729cb80c65fbdeb3475638c650e093640d4f346c179JmltdHM9MTczNjk4NTYwMA&ptn=3&ver=2&hsh=4&fclid=22fd2765-e7f7-61c6-1ee9-34aae6456050&psq=technology&u=a1aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvVGVjaG5vbG9neQ&ntb=1">Technology</a></li>
+                    <li><a href="https://www.bing.com/ck/a?!&&p=295a6a121c21c6dafd682b337de85b8fbbe47ba27a48c7aa38934871c58f91f2JmltdHM9MTczNjk4NTYwMA&ptn=3&ver=2&hsh=4&fclid=22fd2765-e7f7-61c6-1ee9-34aae6456050&psq=lifestyle+wikipedia&u=a1aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTGlmZXN0eWxl&ntb=1">Lifestyle</a></li>
+                    <li><a href="index.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <div class="container main-content">
+        <section class="content">
+            <article class="post">
+                <img src="IMAGE 1jpg.jpg" alt="Fashion Trends" class="post-img">
+                <div class="post-info">
+                    <h2 class="post-title">The Top Fashion Trends in 2025</h2>
+                    <p class="post-excerpt">Fashion is evolving fast. Explore the bold new trends of 2025 that are reshaping the industry.
+                        In 2025, fashion trends are embracing a blend of nostalgia and innovation. The 'Penny Lane' coat, a 1970s staple characterized by fur embellishments, has made a notable comeback, adding a touch of boho-chic glamour to contemporary wardrobes.</p>
+                    <a href="https://www.bing.com/ck/a?!&&p=083d05eaea80d37164cd76b4be9e81c14a2c46813c61fa7902d8daa9d8052306JmltdHM9MTczNjk4NTYwMA&ptn=3&ver=2&hsh=4&fclid=22fd2765-e7f7-61c6-1ee9-34aae6456050&psq=recent+fashion+trends+2025&u=a1aHR0cHM6Ly93d3cubWFyaWVjbGFpcmUuY29tL2Zhc2hpb24vZmFzaGlvbi10cmVuZHMtMjAyNS8&ntb=1" class="read-more">Read more</a>
+                </div>
+            </article>
+
+            <article class="post">
+                <img src="IMAGE 2.jpg" alt="Tech Innovations" class="post-img">
+                <div class="post-info">
+                    <h2 class="post-title">Innovations in Technology to Watch in 2025</h2>
+                    <p class="post-excerpt">From AI advancements to 5G breakthroughs, here are the technological innovations that will change the future In 2025, technological advancements are poised to reshape various sectors. Artificial Intelligence (AI) continues to integrate deeply into daily life, enhancing virtual assistants and revolutionizing healthcare diagnostics...</p>
+                    <a href="https://www.bing.com/ck/a?!&&p=6deedc82cde8b3c897d99be4ab436e644a4f1658532da5d7f6f61d95c7a7db3aJmltdHM9MTczNjk4NTYwMA&ptn=3&ver=2&hsh=4&fclid=22fd2765-e7f7-61c6-1ee9-34aae6456050&psq=Innovations+in+Technology+to+Watch+in+2025+&u=a1aHR0cHM6Ly93d3cuZ2Vla3Nmb3JnZWVrcy5vcmcvdG9wLW5ldy10ZWNobm9sb2d5LXRyZW5kcy8jOn46dGV4dD1UaGlzJTIwZ3VpZGUlMjBleHBsb3JlcyUyMHRoZSUyMHRvcCUyMDI1JTIwZW1lcmdpbmclMjB0ZWNobm9sb2d5LHRyZW5kcyUyMGFyZSUyMGNyZWF0aW5nJTIwdmFzdCUyMG9wcG9ydHVuaXRpZXMlMjBhbmQlMjBjb21wZXRpdGl2ZSUyMGFkdmFudGFnZXMu&ntb=1" class="read-more">Read more</a>
+                </div>
+            </article>
+
+            <article class="post">
+                <img src="IMAGE 3.jpg" alt="Sustainable Living" class="post-img">
+                <div class="post-info">
+                    <h2 class="post-title">Sustainability in 2025: A New Way of Living</h2>
+                    <p class="post-excerpt">Sustainability continues to shape how we live. Here’s how sustainable living is becoming the new norm.
+                        In 2025, sustainability is becoming deeply embedded in daily life, driven by significant advancements and shifts across various sectors. The adoption of circular economy models is widespread, emphasizing product life extension, reuse, and recycling to minimize waste and resource consumption.</p>
+                    <a href="https://www.bing.com/ck/a?!&&p=5994014721183073f1e0b02bda9668248384a7bb85fcc37c3d3163f8af947ce7JmltdHM9MTczNjk4NTYwMA&ptn=3&ver=2&hsh=4&fclid=22fd2765-e7f7-61c6-1ee9-34aae6456050&psq=Sustainability+in+2025%3a+A+New+Way+of+Living&u=a1aHR0cHM6Ly9jaG9vc2VqdXN0LmNvbS9ibG9ncy9uZXdzL25ldy15ZWFyLW5ldy1oYWJpdHMtZW1icmFjaW5nLXN1c3RhaW5hYmxlLWxpdmluZy1pbi0yMDI1Izp-OnRleHQ9QWRvcHRpbmclMjBhJTIwc3VzdGFpbmFibGUlMjBsaWZlc3R5bGUlMjBpcyUyMG1vcmUlMjB0aGFuJTIwYSxkYWlseSUyMHJvdXRpbmUlMkMlMjBtYWtpbmclMjAyMDI1JTIweW91ciUyMGdyZWVuZXN0JTIweWVhciUyMHlldC4&ntb=1" class="read-more">Read more</a>
+                </div>
+            </article>
+        </section>
+
+        <aside class="sidebar" style="height: min-content;">
+            <h3>Recent Posts</h3>
+            <ul>
+                <li><a href="https://www.bing.com/ck/a?!&&p=4a43915b2f7f8d9627a35c6f8ef594e33e7cf631b6312d801b1f614d1c1d5e7cJmltdHM9MTczNjk4NTYwMA&ptn=3&ver=2&hsh=4&fclid=22fd2765-e7f7-61c6-1ee9-34aae6456050&psq=Fashion+Must-Haves+for+2025&u=a1aHR0cHM6Ly93d3cubWFyaWVjbGFpcmUuY29tL2Zhc2hpb24vZmFzaGlvbi10cmVuZHMtMjAyNS8&ntb=1">5 Fashion Must-Haves for 2025</a></li>
+                <li><a href="https://www.bing.com/ck/a?!&&p=6f035ba01ac7d1696782aa164f38752bbd10a8a9d9ee418151fc4f10b595cdd4JmltdHM9MTczNjk4NTYwMA&ptn=3&ver=2&hsh=4&fclid=22fd2765-e7f7-61c6-1ee9-34aae6456050&psq=Top+5+Tech+Gadgets+to+Watch+in+2025&u=a1aHR0cHM6Ly9nZWVreWdhZGdldHMuaW4vbXVzdC1oYXZlLXRlY2gtZ2FkZ2V0cy1pbmRpYS8&ntb=1">Top 5 Tech Gadgets to Watch</a></li>
+                <li><a href="https://www.bing.com/ck/a?!&&p=8fd98775c19cd50167aaff0eadb2b59800ccffe488f715678b1274bf66c46e8bJmltdHM9MTczNjk4NTYwMA&ptn=3&ver=2&hsh=4&fclid=22fd2765-e7f7-61c6-1ee9-34aae6456050&psq=recent+events+happening+in+india+2025&u=a1aHR0cHM6Ly93d3cudHJpYnVuZWluZGlhLmNvbS9uZXdzL2ZlYXR1cmVzLzIwLWV2ZW50cy10by1sb29rLWZvcndhcmQtdG8taW4tMjAyNS8&ntb=1">20 events to look forward to in 2025</a></li>
+                <li><a href="https://www.bing.com/ck/a?!&&p=abda60c31882f2e722a99ab0295b05f2be7d9927bef0b2d366e5c08eca7dcd44JmltdHM9MTczNjk4NTYwMA&ptn=3&ver=2&hsh=4&fclid=22fd2765-e7f7-61c6-1ee9-34aae6456050&psq=The+Future+of+AI+in+Everyday+Life&u=a1aHR0cHM6Ly93d3cuZ2Vla3Nmb3JnZWVrcy5vcmcvZnV0dXJlLW9mLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLWhvdy1haS1pcy1yZXNoYXBpbmctdGhlLXdvcmxkLw&ntb=1">The Future of AI in Everyday Life</a></li>
+            </ul>
+        </aside>
+    </div>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Latest Trends Blog. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
